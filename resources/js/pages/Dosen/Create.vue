@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import Swal from 'sweetalert2'
 import { useForm } from '@inertiajs/vue3'
+import Swal from 'sweetalert2'
 
 const form = useForm({
     nama: '',

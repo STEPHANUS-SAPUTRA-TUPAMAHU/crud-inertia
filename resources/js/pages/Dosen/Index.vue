@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import { Link, router } from '@inertiajs/vue3'
 import Swal from 'sweetalert2'
 defineProps({
